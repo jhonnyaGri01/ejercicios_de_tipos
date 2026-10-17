@@ -1,0 +1,12 @@
+{
+  "name": "taller-tipos",
+  "version": "1.0.0",
+  "description": "Taller de ejercicios de tipos en TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
